@@ -4,8 +4,8 @@ Console.Write("Введите радиус: ");
 
 if (double.TryParse(Console.ReadLine(), out double radius))
 {
-    double diameter = 2 * radius;
-    Console.WriteLine($"Диаметр: {diameter}");
+    double dia = 2 * radius;
+    Console.WriteLine($"Диаметр: {dia}");
 }
 else
 {
