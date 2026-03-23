@@ -12,3 +12,18 @@ D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\refint\z1.dll
 D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\z1.pdb
 D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\z1.genruntimeconfig.cache
 D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\ref\z1.dll
+D:\практика_C#\Дубровский_05\z1\bin\Debug\net8.0\z1.exe
+D:\практика_C#\Дубровский_05\z1\bin\Debug\net8.0\z1.deps.json
+D:\практика_C#\Дубровский_05\z1\bin\Debug\net8.0\z1.runtimeconfig.json
+D:\практика_C#\Дубровский_05\z1\bin\Debug\net8.0\z1.dll
+D:\практика_C#\Дубровский_05\z1\bin\Debug\net8.0\z1.pdb
+D:\практика_C#\Дубровский_05\z1\obj\Debug\net8.0\z1.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика_C#\Дубровский_05\z1\obj\Debug\net8.0\z1.AssemblyInfoInputs.cache
+D:\практика_C#\Дубровский_05\z1\obj\Debug\net8.0\z1.AssemblyInfo.cs
+D:\практика_C#\Дубровский_05\z1\obj\Debug\net8.0\z1.csproj.CoreCompileInputs.cache
+D:\практика_C#\Дубровский_05\z1\obj\Debug\net8.0\z1.sourcelink.json
+D:\практика_C#\Дубровский_05\z1\obj\Debug\net8.0\z1.dll
+D:\практика_C#\Дубровский_05\z1\obj\Debug\net8.0\refint\z1.dll
+D:\практика_C#\Дубровский_05\z1\obj\Debug\net8.0\z1.pdb
+D:\практика_C#\Дубровский_05\z1\obj\Debug\net8.0\z1.genruntimeconfig.cache
+D:\практика_C#\Дубровский_05\z1\obj\Debug\net8.0\ref\z1.dll

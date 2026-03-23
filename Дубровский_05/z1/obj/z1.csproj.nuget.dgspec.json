@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\практика C#\\LR1\\lr5\\z1\\z1.csproj": {}
+    "D:\\практика_C#\\Дубровский_05\\z1\\z1.csproj": {}
   },
   "projects": {
-    "D:\\практика C#\\LR1\\lr5\\z1\\z1.csproj": {
+    "D:\\практика_C#\\Дубровский_05\\z1\\z1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\практика C#\\LR1\\lr5\\z1\\z1.csproj",
+        "projectUniqueName": "D:\\практика_C#\\Дубровский_05\\z1\\z1.csproj",
         "projectName": "z1",
-        "projectPath": "D:\\практика C#\\LR1\\lr5\\z1\\z1.csproj",
+        "projectPath": "D:\\практика_C#\\Дубровский_05\\z1\\z1.csproj",
         "packagesPath": "C:\\Users\\busin\\.nuget\\packages\\",
-        "outputPath": "D:\\практика C#\\LR1\\lr5\\z1\\obj\\",
+        "outputPath": "D:\\практика_C#\\Дубровский_05\\z1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

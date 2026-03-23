@@ -1,43 +1,20 @@
 ﻿using System;
 
-namespace FileApp
+namespace FileSystemApp
 {
-    interface IReadFile
-    {
-        void AccessFile(string fileName);
-    }
-
-    interface IWriteFile
-    {
-        void AccessFile(string fileName);
-    }
-
-    class FileManager : IReadFile, IWriteFile
-    {
-        void IReadFile.AccessFile(string fileName)
-        {
-            Console.WriteLine("Чтение данных из файла: " + fileName);
-        }
-
-        void IWriteFile.AccessFile(string fileName)
-        {
-            Console.WriteLine("Запись новых данных в файл: " + fileName);
-        }
-    }
-
     class Program
     {
         static void Main(string[] args)
         {
-            FileManager myManager = new FileManager();
+            FileManager fileManager = new FileManager();
 
-            IReadFile reader = (IReadFile)myManager;
-            reader.AccessFile("kpiap.txt");
+            IReadFile reader = (IReadFile)fileManager;
+            reader.AccessFile("kpiap.bin");
 
-            IWriteFile writer = (IWriteFile)myManager;
-            writer.AccessFile("kpiap.txt");
+            IWriteFile writer = (IWriteFile)fileManager;
+            writer.AccessFile("kpiap.bin");
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }

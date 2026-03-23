@@ -1,0 +1,14 @@
+D:\практика C#\LR1\lr5\z1\bin\Debug\net8.0\MusicApp.exe
+D:\практика C#\LR1\lr5\z1\bin\Debug\net8.0\MusicApp.deps.json
+D:\практика C#\LR1\lr5\z1\bin\Debug\net8.0\MusicApp.runtimeconfig.json
+D:\практика C#\LR1\lr5\z1\bin\Debug\net8.0\MusicApp.dll
+D:\практика C#\LR1\lr5\z1\bin\Debug\net8.0\MusicApp.pdb
+D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\MusicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\MusicApp.AssemblyInfoInputs.cache
+D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\MusicApp.AssemblyInfo.cs
+D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\MusicApp.csproj.CoreCompileInputs.cache
+D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\MusicApp.dll
+D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\refint\MusicApp.dll
+D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\MusicApp.pdb
+D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\MusicApp.genruntimeconfig.cache
+D:\практика C#\LR1\lr5\z1\obj\Debug\net8.0\ref\MusicApp.dll
