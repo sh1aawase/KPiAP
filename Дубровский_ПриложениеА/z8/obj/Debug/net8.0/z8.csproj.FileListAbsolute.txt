@@ -1,0 +1,14 @@
+D:\практика C#\LR1\LR1\z8\bin\Debug\net8.0\z8.exe
+D:\практика C#\LR1\LR1\z8\bin\Debug\net8.0\z8.deps.json
+D:\практика C#\LR1\LR1\z8\bin\Debug\net8.0\z8.runtimeconfig.json
+D:\практика C#\LR1\LR1\z8\bin\Debug\net8.0\z8.dll
+D:\практика C#\LR1\LR1\z8\bin\Debug\net8.0\z8.pdb
+D:\практика C#\LR1\LR1\z8\obj\Debug\net8.0\z8.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика C#\LR1\LR1\z8\obj\Debug\net8.0\z8.AssemblyInfoInputs.cache
+D:\практика C#\LR1\LR1\z8\obj\Debug\net8.0\z8.AssemblyInfo.cs
+D:\практика C#\LR1\LR1\z8\obj\Debug\net8.0\z8.csproj.CoreCompileInputs.cache
+D:\практика C#\LR1\LR1\z8\obj\Debug\net8.0\z8.dll
+D:\практика C#\LR1\LR1\z8\obj\Debug\net8.0\refint\z8.dll
+D:\практика C#\LR1\LR1\z8\obj\Debug\net8.0\z8.pdb
+D:\практика C#\LR1\LR1\z8\obj\Debug\net8.0\z8.genruntimeconfig.cache
+D:\практика C#\LR1\LR1\z8\obj\Debug\net8.0\ref\z8.dll

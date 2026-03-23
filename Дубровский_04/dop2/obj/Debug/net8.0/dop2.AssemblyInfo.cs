@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dop2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df7d28a4e17b6ab12b6da4503aa9db3ea85b58ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("dop2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dop2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

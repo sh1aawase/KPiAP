@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 Console.Write("Введите четырехзначное число: ");
 if (int.TryParse(Console.ReadLine(), out int number) && number >= 1000 && number <= 9999)

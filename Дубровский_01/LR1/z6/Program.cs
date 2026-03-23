@@ -11,4 +11,4 @@ if (month >= 1 && month <= 12)
 else
 {
     Console.WriteLine("Ошибка");
-}
+}   
