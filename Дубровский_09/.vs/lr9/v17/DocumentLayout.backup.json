@@ -1,42 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\",
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z1.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\lr1\\lr9\\z1\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z1.csproj|solutionrelative:z1\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D0465DE-1714-4AAB-8DD0-158C35465AB7}|z1)\\z1).csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1)\\fileinfoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0465DE-1714-4AAB-8DD0-158C35465AB7}|z1)\\z1).csproj|solutionrelative:z1)\\fileinfoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z1.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\lr1\\lr9\\z1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z1.csproj|solutionrelative:z1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D0465DE-1714-4AAB-8DD0-158C35465AB7}|z1)\\z1).csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1)\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0465DE-1714-4AAB-8DD0-158C35465AB7}|z1)\\z1).csproj|solutionrelative:z1)\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C811D0B2-629F-470F-AD09-55C6CE356112}|z4\\z4.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\lr1\\lr9\\z4\\filewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D0465DE-1714-4AAB-8DD0-158C35465AB7}|z1)\\z1).csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0465DE-1714-4AAB-8DD0-158C35465AB7}|z1)\\z1).csproj|solutionrelative:z1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z3.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z3.csproj|solutionrelative:z2\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z3.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z3.csproj|solutionrelative:z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z3.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\z3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z3.csproj|solutionrelative:z2\\z3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:z3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z2.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1\\sensordatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z2.csproj|solutionrelative:z1\\sensordatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z2.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z2.csproj|solutionrelative:z1\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z2.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z2.csproj|solutionrelative:z1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\Task 1\\FileInfoProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task 1\\FileInfoProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C811D0B2-629F-470F-AD09-55C6CE356112}|z4\\z4.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z4\\filewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C811D0B2-629F-470F-AD09-55C6CE356112}|z4\\z4.csproj|solutionrelative:z4\\filewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C811D0B2-629F-470F-AD09-55C6CE356112}|z4\\z4.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\lr1\\lr9\\z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C811D0B2-629F-470F-AD09-55C6CE356112}|z4\\z4.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C811D0B2-629F-470F-AD09-55C6CE356112}|z4\\z4.csproj|solutionrelative:z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z2.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\lr1\\lr9\\z2\\sensorfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z2.csproj|solutionrelative:z2\\sensorfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z3.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\sensorfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z3.csproj|solutionrelative:z2\\sensorfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z2.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\lr1\\lr9\\z2\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z2.csproj|solutionrelative:z2\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z2.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\lr1\\lr9\\z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z2.csproj|solutionrelative:z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z2.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\lr1\\lr9\\z2\\sensorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z2.csproj|solutionrelative:z2\\sensorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z1.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\lr1\\lr9\\z1\\sensordatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8FB5E0-E079-404B-9823-E64B63C2DB00}|z1\\z1.csproj|solutionrelative:z1\\sensordatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z3.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_c#\\\u0434\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\sensorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27349B-11E3-4B01-861C-585F7F77E439}|z2\\z3.csproj|solutionrelative:z2\\sensorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,76 +78,148 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileWatcher.cs",
-              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z4\\FileWatcher.cs",
-              "RelativeDocumentMoniker": "z4\\FileWatcher.cs",
-              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z4\\FileWatcher.cs",
-              "RelativeToolTip": "z4\\FileWatcher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1)\\FileManager.cs",
+              "RelativeDocumentMoniker": "z1)\\FileManager.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1)\\FileManager.cs",
+              "RelativeToolTip": "z1)\\FileManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T19:26:28.746Z",
+              "WhenOpened": "2026-03-27T19:47:43.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z4\\Program.cs",
-              "RelativeDocumentMoniker": "z4\\Program.cs",
-              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z4\\Program.cs",
-              "RelativeToolTip": "z4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FileInfoProvider.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1)\\FileInfoProvider.cs",
+              "RelativeDocumentMoniker": "z1)\\FileInfoProvider.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1)\\FileInfoProvider.cs",
+              "RelativeToolTip": "z1)\\FileInfoProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T19:25:01.889Z",
+              "WhenOpened": "2026-03-27T19:47:26.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1)\\Program.cs",
+              "RelativeDocumentMoniker": "z1)\\Program.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1)\\Program.cs",
+              "RelativeToolTip": "z1)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:44:45.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SensorData.cs",
-              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z2\\SensorData.cs",
-              "RelativeDocumentMoniker": "z2\\SensorData.cs",
-              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z2\\SensorData.cs",
-              "RelativeToolTip": "z2\\SensorData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T19:21:15.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SensorFileReader.cs",
-              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z2\\SensorFileReader.cs",
-              "RelativeDocumentMoniker": "z2\\SensorFileReader.cs",
-              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z2\\SensorFileReader.cs",
-              "RelativeToolTip": "z2\\SensorFileReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T19:20:57.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SensorProcessor.cs",
-              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z2\\SensorProcessor.cs",
-              "RelativeDocumentMoniker": "z2\\SensorProcessor.cs",
-              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z2\\SensorProcessor.cs",
-              "RelativeToolTip": "z2\\SensorProcessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T19:20:32.544Z",
+              "Title": "z3",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\z3.csproj",
+              "RelativeDocumentMoniker": "z2\\z3.csproj",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\z3.csproj",
+              "RelativeToolTip": "z2\\z3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T19:44:20.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z2\\Program.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z3\\Program.cs",
+              "RelativeDocumentMoniker": "z3\\Program.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z3\\Program.cs",
+              "RelativeToolTip": "z3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:44:14.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileInfoProvider.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\Task 1\\FileInfoProvider.cs",
+              "RelativeDocumentMoniker": "Task 1\\FileInfoProvider.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\Task 1\\FileInfoProvider.cs",
+              "RelativeToolTip": "Task 1\\FileInfoProvider.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:40:33.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileWatcher.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z4\\FileWatcher.cs",
+              "RelativeDocumentMoniker": "z4\\FileWatcher.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z4\\FileWatcher.cs",
+              "RelativeToolTip": "z4\\FileWatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:26:28.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z4\\Program.cs",
+              "RelativeDocumentMoniker": "z4\\Program.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z4\\Program.cs",
+              "RelativeToolTip": "z4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:25:01.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\SensorData.cs",
+              "RelativeDocumentMoniker": "z2\\SensorData.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\SensorData.cs",
+              "RelativeToolTip": "z2\\SensorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:21:15.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SensorFileReader.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\SensorFileReader.cs",
+              "RelativeDocumentMoniker": "z2\\SensorFileReader.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\SensorFileReader.cs",
+              "RelativeToolTip": "z2\\SensorFileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:20:57.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SensorProcessor.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\SensorProcessor.cs",
+              "RelativeDocumentMoniker": "z2\\SensorProcessor.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\SensorProcessor.cs",
+              "RelativeToolTip": "z2\\SensorProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T19:20:32.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\Program.cs",
               "RelativeDocumentMoniker": "z2\\Program.cs",
-              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z2\\Program.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z2\\Program.cs",
               "RelativeToolTip": "z2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,24 +228,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "SensorData.cs",
-              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z1\\SensorData.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1\\SensorData.cs",
               "RelativeDocumentMoniker": "z1\\SensorData.cs",
-              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z1\\SensorData.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1\\SensorData.cs",
               "RelativeToolTip": "z1\\SensorData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T19:16:52.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "SensorDataWriter.cs",
-              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z1\\SensorDataWriter.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1\\SensorDataWriter.cs",
               "RelativeDocumentMoniker": "z1\\SensorDataWriter.cs",
-              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z1\\SensorDataWriter.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1\\SensorDataWriter.cs",
               "RelativeToolTip": "z1\\SensorDataWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,13 +254,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z1\\Program.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1\\Program.cs",
               "RelativeDocumentMoniker": "z1\\Program.cs",
-              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\LR1\\lr9\\z1\\Program.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430_C#\\\u0414\u0443\u0431\u0440\u043E\u0432\u0441\u043A\u0438\u0439_09\\z1\\Program.cs",
               "RelativeToolTip": "z1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T19:14:16.975Z",
               "EditorCaption": ""
