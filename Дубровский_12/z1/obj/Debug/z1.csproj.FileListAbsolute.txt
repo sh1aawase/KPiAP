@@ -1,0 +1,11 @@
+D:\практика C#\LR1\lr12\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+D:\практика C#\LR1\lr12\z1\obj\Debug\z1.Properties.Resources.resources
+D:\практика C#\LR1\lr12\z1\obj\Debug\z1.csproj.GenerateResource.cache
+D:\практика C#\LR1\lr12\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+D:\практика C#\LR1\lr12\z1\obj\Debug\FinanceApp.Form1.resources
+D:\практика C#\LR1\lr12\z1\bin\Debug\z1.exe.config
+D:\практика C#\LR1\lr12\z1\bin\Debug\z1.exe
+D:\практика C#\LR1\lr12\z1\bin\Debug\z1.pdb
+D:\практика C#\LR1\lr12\z1\obj\Debug\z1.exe
+D:\практика C#\LR1\lr12\z1\obj\Debug\z1.pdb
+D:\практика C#\LR1\lr12\z1\obj\Debug\z1.exe.config
