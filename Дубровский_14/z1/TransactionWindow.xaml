@@ -1,0 +1,18 @@
+﻿<Window x:Class="FinanceApp.TransactionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Данные транзакции" Height="250" Width="300" WindowStartupLocation="CenterOwner">
+    <StackPanel Margin="20">
+        <TextBlock Text="Сумма:" Margin="0,0,0,5"/>
+        <TextBox x:Name="AmountBox" Text="{Binding Amount, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,15"/>
+
+        <TextBlock Text="Категория:" Margin="0,0,0,5"/>
+        <ComboBox x:Name="CategoryBox" Text="{Binding Category}" IsEditable="True" Margin="0,0,0,15">
+            <ComboBoxItem Content="Доход"/>
+            <ComboBoxItem Content="Расход"/>
+            <ComboBoxItem Content="Прочее"/>
+        </ComboBox>
+
+        <Button Content="Сохранить" Click="Save_Click" IsDefault="True" Padding="10,5"/>
+    </StackPanel>
+</Window>
