@@ -1,0 +1,99 @@
+﻿<Window x:Class="FinanceApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:FinanceApp"
+        Title="Finance Manager" Height="500" Width="850">
+
+    <Window.DataContext>
+        <local:FinanceViewModel/>
+    </Window.DataContext>
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVis"/>
+
+        <ControlTemplate x:Key="ModernButton" TargetType="Button">
+            <Border x:Name="border" Background="#2196F3" CornerRadius="5">
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Margin="15,5"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="border" Property="Background" Value="#1976D2"/>
+                </Trigger>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter TargetName="border" Property="Background" Value="#BDBDBD"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+
+    <Grid>
+        <DockPanel Margin="10">
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,0,0,15">
+                <Button Content="ОБНОВИТЬ ДАННЫЕ" 
+                        Command="{Binding LoadDataCommand}" 
+                        Template="{StaticResource ModernButton}" 
+                        Foreground="White" 
+                        FontWeight="Bold"/>
+            </StackPanel>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <GroupBox Header="История транзакций" Margin="0,0,10,0">
+                    <DataGrid ItemsSource="{Binding Transactions}" 
+                              AutoGenerateColumns="False" 
+                              IsReadOnly="True" 
+                              GridLinesVisibility="Horizontal"
+                              Background="White"
+                              BorderThickness="0">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Дата" Binding="{Binding Date, StringFormat=\{0:dd.MM.yyyy\}}" Width="100"/>
+                            <DataGridTextColumn Header="Категория" Binding="{Binding Category}" Width="*"/>
+                            <DataGridTextColumn Header="Сумма" Binding="{Binding Amount, StringFormat={}{0:N2}}" Width="120">
+                                <DataGridTextColumn.ElementStyle>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="HorizontalAlignment" Value="Right"/>
+                                        <Setter Property="Margin" Value="0,0,10,0"/>
+                                    </Style>
+                                </DataGridTextColumn.ElementStyle>
+                            </DataGridTextColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </GroupBox>
+
+                <GroupBox Header="Аналитика по категориям" Grid.Column="1">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <ItemsControl ItemsSource="{Binding Stats}" Margin="5">
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="0,0,0,15">
+                                        <Grid>
+                                            <TextBlock Text="{Binding Name}" FontWeight="SemiBold"/>
+                                            <TextBlock Text="{Binding Percentage, StringFormat={}{0:F1}%}" HorizontalAlignment="Right" Foreground="Gray"/>
+                                        </Grid>
+                                        <Grid Margin="0,5,0,0">
+                                            <ProgressBar Value="{Binding Percentage}" Height="18" Foreground="#4CAF50" Background="#E0E0E0" BorderThickness="0"/>
+                                            <TextBlock Text="{Binding TotalAmount, StringFormat={}{0:N0} руб.}" 
+                                                       HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                                       FontSize="11" FontWeight="Bold"/>
+                                        </Grid>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </ScrollViewer>
+                </GroupBox>
+            </Grid>
+        </DockPanel>
+
+        <Border Background="#AAFFFFFF" Visibility="{Binding IsLoading, Converter={StaticResource BoolToVis}}">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <ProgressBar IsIndeterminate="True" Width="200" Height="4" Foreground="#2196F3"/>
+                <TextBlock Text="Синхронизация данных..." Margin="0,10,0,0" FontSize="14" FontWeight="Medium"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
