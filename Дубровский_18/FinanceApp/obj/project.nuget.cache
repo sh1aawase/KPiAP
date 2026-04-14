@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5j/aA7Au03Y=",
+  "dgSpecHash": "FB/C6gvp5u4=",
   "success": true,
-  "projectFilePath": "D:\\практика C#\\LR1\\lr18\\FinanceApp\\FinanceApp.csproj",
+  "projectFilePath": "D:\\практика_C#\\Дубровский_18\\FinanceApp\\FinanceApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\busin\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\busin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

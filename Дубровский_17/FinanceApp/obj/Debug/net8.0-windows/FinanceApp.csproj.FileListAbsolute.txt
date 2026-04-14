@@ -21,3 +21,27 @@ D:\практика C#\LR1\lr17\FinanceApp\obj\Debug\net8.0-windows\refint\Finan
 D:\практика C#\LR1\lr17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.pdb
 D:\практика C#\LR1\lr17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.genruntimeconfig.cache
 D:\практика C#\LR1\lr17\FinanceApp\obj\Debug\net8.0-windows\ref\FinanceApp.dll
+D:\практика_C#\Дубровский_17\FinanceApp\bin\Debug\net8.0-windows\FinanceApp.exe
+D:\практика_C#\Дубровский_17\FinanceApp\bin\Debug\net8.0-windows\FinanceApp.deps.json
+D:\практика_C#\Дубровский_17\FinanceApp\bin\Debug\net8.0-windows\FinanceApp.runtimeconfig.json
+D:\практика_C#\Дубровский_17\FinanceApp\bin\Debug\net8.0-windows\FinanceApp.dll
+D:\практика_C#\Дубровский_17\FinanceApp\bin\Debug\net8.0-windows\FinanceApp.pdb
+D:\практика_C#\Дубровский_17\FinanceApp\bin\Debug\net8.0-windows\LiveCharts.dll
+D:\практика_C#\Дубровский_17\FinanceApp\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.csproj.AssemblyReference.cache
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\App.g.cs
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp_MarkupCompile.cache
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.g.resources
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.AssemblyInfoInputs.cache
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.AssemblyInfo.cs
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.csproj.CoreCompileInputs.cache
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.sourcelink.json
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.csproj.Up2Date
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.dll
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\refint\FinanceApp.dll
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.pdb
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.genruntimeconfig.cache
+D:\практика_C#\Дубровский_17\FinanceApp\obj\Debug\net8.0-windows\ref\FinanceApp.dll

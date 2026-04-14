@@ -87,11 +87,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\практика C#\\LR1\\lr17\\FinanceApp\\FinanceApp.csproj",
+      "projectUniqueName": "D:\\практика_C#\\Дубровский_17\\FinanceApp\\FinanceApp.csproj",
       "projectName": "FinanceApp",
-      "projectPath": "D:\\практика C#\\LR1\\lr17\\FinanceApp\\FinanceApp.csproj",
+      "projectPath": "D:\\практика_C#\\Дубровский_17\\FinanceApp\\FinanceApp.csproj",
       "packagesPath": "C:\\Users\\busin\\.nuget\\packages\\",
-      "outputPath": "D:\\практика C#\\LR1\\lr17\\FinanceApp\\obj\\",
+      "outputPath": "D:\\практика_C#\\Дубровский_17\\FinanceApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

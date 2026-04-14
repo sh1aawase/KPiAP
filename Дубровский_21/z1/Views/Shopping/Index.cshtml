@@ -1,0 +1,69 @@
+@model ShoppingListViewModel
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ShoppingListApp</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2rem; max-width: 900px; }
+        h1 { margin-bottom: 1rem; }
+        h2 { margin-top: 1.5rem; }
+        form { margin: 0.5rem 0; }
+        input { margin-right: 0.5rem; padding: 0.3rem; }
+        button { padding: 0.35rem 0.7rem; }
+        li { margin-bottom: 0.4rem; }
+        .muted { color: #666; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h1>Список покупок</h1>
+
+    <h2>Добавить товар</h2>
+    <form asp-action="Add" method="post">
+        @Html.AntiForgeryToken()
+        <input type="text" name="name" placeholder="Название товара" required />
+        <input type="number" name="quantity" min="1" value="1" required />
+        <button type="submit">Добавить</button>
+    </form>
+
+    <h2>Список покупок</h2>
+    @if (!Model.Items.Any())
+    {
+        <p class="muted">Список пока пуст.</p>
+    }
+    else
+    {
+        <ul>
+            @foreach (var item in Model.Items)
+            {
+                <li>
+                    <form action="/Shopping/Mark/@item.Id" method="post" style="display:inline;">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="isBought" value="false" />
+                        @if (item.IsBought)
+                        {
+                            <input type="checkbox" name="isBought" value="true" checked onchange="this.form.submit()" />
+                        }
+                        else
+                        {
+                            <input type="checkbox" name="isBought" value="true" onchange="this.form.submit()" />
+                        }
+                    </form>
+                    @item.Name (@item.Quantity)
+                    <form action="/Shopping/Mark/@item.Id" method="post" style="display:inline;">
+                        @Html.AntiForgeryToken()
+                        <button type="submit">Отметить как купленное</button>
+                    </form>
+                    <form asp-action="Delete" method="post" style="display:inline;">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit">Удалить</button>
+                    </form>
+                </li>
+            }
+        </ul>
+    }
+</body>
+</html>

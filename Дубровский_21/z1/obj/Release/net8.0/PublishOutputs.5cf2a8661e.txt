@@ -1,0 +1,16 @@
+D:\Deploy\z1\z1.exe
+D:\Deploy\z1\appsettings.Development.json
+D:\Deploy\z1\appsettings.json
+D:\Deploy\z1\z1.dll
+D:\Deploy\z1\z1.deps.json
+D:\Deploy\z1\z1.runtimeconfig.json
+D:\Deploy\z1\z1.pdb
+D:\Deploy\z1\Microsoft.EntityFrameworkCore.dll
+D:\Deploy\z1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Deploy\z1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Deploy\z1\Microsoft.Extensions.Caching.Memory.dll
+D:\Deploy\z1\Microsoft.Extensions.DependencyInjection.dll
+D:\Deploy\z1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Deploy\z1\Microsoft.Extensions.Logging.dll
+D:\Deploy\z1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Deploy\z1\Microsoft.Extensions.Options.dll
